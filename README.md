@@ -2,10 +2,10 @@
 
 آخرین آپلود : 15 آذر سال 1403
 
-لایو پروژه اینجا : https://shopy.liara.run/firstpage
+لایو پروژه اینجا : https://shopy.liara.run/list
 <br>
 </br>
 
  Clothes online shop with Next JS
 
-Project as live here : https://shopy.liara.run/firstpage
+Project as live here : https://shopy.liara.run/list
